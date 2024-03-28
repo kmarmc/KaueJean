@@ -32826,11 +32826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\KaueJean-1\\KaueJean\\KaueJean.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\KaueJean\\KaueJean-1\\KaueJean\\KaueJean.csproj",
       "projectName": "KaueJean",
-      "projectPath": "C:\\Users\\Aluno\\KaueJean-1\\KaueJean\\KaueJean.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\KaueJean\\KaueJean-1\\KaueJean\\KaueJean.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\KaueJean-1\\KaueJean\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\KaueJean\\KaueJean-1\\KaueJean\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

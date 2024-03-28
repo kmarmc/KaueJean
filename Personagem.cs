@@ -1,16 +1,22 @@
 namespace KaueJean;
  public class Personagem
  {
-    protected double fome;
-    protected double sede;
-    protected double sono;
+    public double fome;
+    public double sede;
+    public double sono;
+    public string NomeDaFoto;
 
  public Personagem()
  {
     fome = 0;
     sede = 0;
     sono = 0;
+    NomeDaFoto = "";
  }   
+ public string GetNomeDaFoto()
+    {
+        return NomeDaFoto; 
+    }
  public void SetFome (double f)
  {
     if (f >= 0 && f <= 1)
