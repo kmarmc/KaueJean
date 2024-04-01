@@ -5,8 +5,11 @@
 
     <Grid>
 
-       <Image x:Name="doguinho.jpg"/>
-      <ProgressBar x:Name="linhaBar"/>
+      <Image Source= "doguinho.jpg"/>
+      <Image x:Name="imgPersonagem"/>
+      <ProgressBar x:Name="linhaBar"
+            ProgressColor="Blue"
+            Progress="0.3"/>
 
       
     </Grid>   

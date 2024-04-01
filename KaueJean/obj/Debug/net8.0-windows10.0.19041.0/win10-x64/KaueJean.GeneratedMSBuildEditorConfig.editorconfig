@@ -8,35 +8,35 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KaueJean
-build_property.ProjectDir = C:\Users\Aluno\Desktop\KaueJean\KaueJean-1\KaueJean\
+build_property.ProjectDir = C:\Users\Aluno\KaueJean\KaueJean\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/Aluno/Desktop/KaueJean/KaueJean-1/KaueJean/App.xaml]
+[C:/Users/Aluno/KaueJean/KaueJean/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaueJean.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Aluno/Desktop/KaueJean/KaueJean-1/KaueJean/AppShell.xaml]
+[C:/Users/Aluno/KaueJean/KaueJean/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaueJean.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Aluno/Desktop/KaueJean/KaueJean-1/KaueJean/MainPage.xaml]
+[C:/Users/Aluno/KaueJean/KaueJean/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaueJean.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Aluno/Desktop/KaueJean/KaueJean-1/KaueJean/Resources/Styles/Colors.xaml]
+[C:/Users/Aluno/KaueJean/KaueJean/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaueJean.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Aluno/Desktop/KaueJean/KaueJean-1/KaueJean/Resources/Styles/Styles.xaml]
+[C:/Users/Aluno/KaueJean/KaueJean/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = KaueJean.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
