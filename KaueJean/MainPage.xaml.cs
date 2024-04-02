@@ -1,4 +1,6 @@
-﻿namespace KaueJean; 
+﻿using System.Data.Common;
+
+namespace KaueJean; 
 
 public partial class MainPage : ContentPage
 {
@@ -23,6 +25,17 @@ public MainPage()
     imgPersonagem.Source = atual.GetNomeDaFoto();
 
     }
+     void BotaoTrocar(object sender, EventArgs args)
+     {
+     if (atual == Scooby)
+        atual = Miau;
+    else if (atual == Miau)
+            atual = Tiger;
+    else if (atual == Tiger)
+            atual = Scooby;
+
+    imgPersonagem.Source= atual.GetNomeDaFoto();
+     }
 
 
 }

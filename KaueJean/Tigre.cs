@@ -7,5 +7,6 @@ public class Tigre : Personagem
         sede = 0;
         sono = 0;
         NomeDaFoto = "tigrinho.jpg";
+        
     }
  }
